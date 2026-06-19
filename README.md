@@ -14,7 +14,7 @@ Soy **Ingeniero Aeroespacial** especializado en **Gestión de Aeronavegabilidad 
 - **Normativa:** EASA Parte CAMO, Part-145
 
 ### 📈 Proyectos Destacados
-- [TFG: Simulación aeroacústica de alta fidelidad mediante CFD (PyFR)](enlace-a-tu-repo-del-tfg)
+- [TFG: Simulación aeroacústica de alta fidelidad mediante CFD (PyFR)](https://github.com/juanjesus-munoz/TFG-Aeroacustica-PyFR)
 
 ---
 *¿Quieres hablar sobre ingeniería aeroespacial, CFD o mantenimiento? ¡Conectemos!*
