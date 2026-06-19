@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy Juan Jesús Muñoz Aguilera 👋
 
-<!--
-**juanjesus-munoz/juanjesus-munoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Ingeniero Aeroespacial** especializado en **Gestión de Aeronavegabilidad (CAMO)** y **Dinámica de Fluidos Computacional (CFD)**. Apasionado por la simulación de alto orden y la optimización aerodinámica.
 
-Here are some ideas to get you started:
+### 🚀 Mi Perfil Profesional
+*   **Enfoque:** Combinación de rigurosidad normativa (EASA) y precisión técnica en modelado numérico.
+*   **Intereses:** Optimización aerodinámica, mantenimiento avanzado y desarrollo de soluciones CFD de alta fidelidad.
+*   **Base:** Actualmente basado en Palma del Río, Córdoba.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Stack Técnico
+<!-- Aquí puedes añadir iconos si quieres, o simplemente esta lista -->
+- **CFD & Simulación:** PyFR, Pointwise, ParaView
+- **Programación & Análisis:** Python, MATLAB, VS Code
+- **Normativa:** EASA Parte CAMO, Part-145
+
+### 📈 Proyectos Destacados
+- [TFG: Simulación aeroacústica de alta fidelidad mediante CFD (PyFR)](enlace-a-tu-repo-del-tfg)
+
+---
+*¿Quieres hablar sobre ingeniería aeroespacial, CFD o mantenimiento? ¡Conectemos!*
+- [LinkedIn](link-a-tu-perfil-de-linkedin)
