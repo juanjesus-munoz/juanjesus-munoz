@@ -19,4 +19,4 @@ Soy **Ingeniero Aeroespacial** especializado en **Gestión de Aeronavegabilidad 
 ---
 *¿Quieres hablar sobre ingeniería aeroespacial, CFD o mantenimiento? ¡Conectemos!*
 - [LinkedIn](https://www.linkedin.com/in/juanjesusmunozaguilera/?skipRedirect=true)
-- [Europass](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/juan+jes%C3%BAs-mu%C3%B1oz+aguilera/f8537d6d-0ed6-4517-9ccb-4c1e6a434619?view=html)
+- [Europass](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/juan+jes%C3%BAs-mu%C3%B1oz+aguilera/80d12651-3cf4-48cc-8cc0-44bee6e56e7e?view=html)
