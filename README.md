@@ -10,8 +10,6 @@ Soy **Ingeniero Aeroespacial** especializado en **Gestión de Aeronavegabilidad 
 
 Me interesa especialmente el desarrollo de herramientas de simulación numérica de alta fidelidad, la optimización aerodinámica y la programación científica mediante Python.
 
-Actualmente sigo ampliando mis conocimientos en **Computación de Altas Prestaciones (HPC)** y simulación CFD de alto orden utilizando **PyFR**.
-
 📍 Palma del Río (Córdoba, España)
 
 ---
