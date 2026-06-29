@@ -67,7 +67,7 @@ PyFR, Pointwise, ParaView, MATLAB, Python
 - Postprocesado y análisis aeroacústico de resultados
 
 🔗 **Repositorio:**  
-<PRIVATE_URL>
+<https://github.com/juanjesus-munoz/TFG-Aeroacustica-PyFR>
 
 ---
 
