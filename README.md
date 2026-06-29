@@ -1,135 +1,95 @@
-# 👋 ¡Hola! Soy Juan Jesús Muñoz Aguilera
+# Juan Jesús Muñoz Aguilera
 
-### Ingeniero Aeroespacial | Gestión de Aeronavegabilidad (CAMO) | CFD y Simulación Numérica
+Ingeniero Aeroespacial enfocado en **aeronavegabilidad**, **CFD** y **simulación numérica**.
 
----
+Trabajo en proyectos relacionados con **aerodinámica computacional**, **programación científica** y **mantenimiento aeronáutico**, con especial interés en simulaciones de alta fidelidad y herramientas de análisis técnico.
 
-## 🚀 Sobre mí
-
-Soy **Ingeniero Aeroespacial** especializado en **Gestión de Aeronavegabilidad (CAMO)** y **Dinámica de Fluidos Computacional (CFD)**.
-
-Me interesa especialmente el desarrollo de herramientas de simulación numérica de alta fidelidad, la optimización aerodinámica y la programación científica mediante Python.
-
-📍 Palma del Río (Córdoba, España)
+📍 Palma del Río, Córdoba, España
 
 ---
 
-## 💼 Experiencia
+## Sobre mí
 
-### ✈️ Pegasus Aero Group
+Soy un perfil técnico orientado a la intersección entre la **ingeniería aeronáutica** y la **computación científica**.  
+Mi trabajo se centra en áreas como la **Gestión de Aeronavegabilidad (CAMO/EASA)**, la **dinámica de fluidos computacional (CFD)** y el desarrollo de flujos de trabajo para simulación, postprocesado y análisis.
 
-**Ingeniero de Aeronavegabilidad (Prácticas)**
+Actualmente me interesa seguir creciendo en proyectos de:
 
-* Gestión de Aeronavegabilidad Continua (CAMO).
-* Seguimiento de Directivas de Aeronavegabilidad (AD) y Boletines de Servicio (SB).
-* Soporte técnico al mantenimiento de helicópteros y aeronaves ligeras.
-* Cumplimiento de la normativa EASA.
-
----
-
-## 🎓 Formación
-
-**Grado en Ingeniería Aeroespacial - Universidad de Cádiz**
-
-Especialización en:
-
-* Aerodinámica.
-* Diseño Aeronáutico.
-* Dinámica de Fluidos Computacional (CFD).
-* Métodos Numéricos.
+- CFD de alto orden
+- Aerodinámica computacional
+- Simulación numérica
+- Programación científica con Python y MATLAB
+- Mantenimiento y aeronavegabilidad
+- I+D en ingeniería aeroespacial
 
 ---
 
-## 📌 Proyecto Destacado
+## Stack técnico
 
-### 🎼 Simulación Aeroacústica mediante CFD con PyFR
+### Ingeniería y simulación
 
-Trabajo Fin de Grado centrado en el estudio aeroacústico de instrumentos tipo flauta mediante simulaciones CFD de alto orden.
+- Aeronavegabilidad continua (CAMO / entorno EASA)
+- Aerodinámica
+- CFD
+- Simulación numérica
+- DNS
+- Postprocesado y análisis de resultados
 
-**Tecnologías utilizadas**
+### Herramientas y software
 
-* PyFR
-* Pointwise
-* ParaView
-* MATLAB
-* Python
+- Python
+- MATLAB
+- PyFR
+- Pointwise
+- ParaView
+- CATIA
+- LaTeX
+- Visual Studio Code
 
-**Principales tareas**
+### Entorno de trabajo
 
-* Diseño y optimización de geometrías.
-* Generación de mallas estructuradas.
-* Simulaciones DNS.
-* Procesado FFT.
-* Postprocesado científico.
-* Análisis aeroacústico.
-
-🔗 **Repositorio**
-
-https://github.com/juanjesus-munoz/TFG-Aeroacustica-PyFR
-
----
-
-## 🛠 Tecnologías
-
-### ✈️ Ingeniería
-
-* Gestión de Aeronavegabilidad (CAMO)
-* Aerodinámica
-* Dinámica de Fluidos Computacional (CFD)
-* Simulación Numérica (DNS)
-
-### 💻 Programación
-
-* Python
-* MATLAB
-* NumPy
-* Matplotlib
-
-### 🧩 Software
-
-* PyFR
-* Pointwise
-* ParaView
-* CATIA
-* Visual Studio Code
-* LaTeX
-
-### 🖥️ Computación
-
-* Linux
-* Git
-* HPC
-* GPU Computing
+- Git
+- Linux
 
 ---
 
-## 📫 Contacto
+## Proyecto destacado
 
-🌐 **Portfolio**
-https://juanjesus-munoz.github.io
+### Simulación aeroacústica de instrumentos tipo flauta mediante CFD con PyFR
 
-💼 **LinkedIn**
-https://linkedin.com/in/juanjesusmunozaguilera
+Trabajo Fin de Grado centrado en el estudio aeroacústico de instrumentos musicales mediante **CFD de alto orden**, con énfasis en la generación de geometría, mallado, estabilidad numérica y análisis espectral.
 
-📄 **Europass CV**
-https://europa.eu/europass/
+**Tecnologías utilizadas:**  
+PyFR, Pointwise, ParaView, MATLAB, Python
 
-🐙 **GitHub**
-https://github.com/juanjesus-munoz
+**Trabajo realizado:**
 
-✉️ **Correo electrónico**
-[juanjesus.munoza03@gmail.com](mailto:juanjesus.munoza03@gmail.com)
+- Diseño y ajuste de geometrías para simulación
+- Suavizado de singularidades geométricas para mejorar estabilidad numérica
+- Generación de mallas estructuradas
+- Ejecución de simulaciones DNS de flujo compresible
+- Procesado espectral mediante FFT en MATLAB
+- Postprocesado y análisis aeroacústico de resultados
+
+**Repositorio:**  
+<PRIVATE_URL>
 
 ---
 
-## 🎯 Objetivos
+## Otros intereses técnicos
 
-Actualmente busco seguir creciendo profesionalmente en áreas relacionadas con:
+Además de los proyectos de simulación, me interesa aplicar herramientas computacionales a problemas de:
 
-* Aerodinámica Computacional.
-* CFD de Alto Orden.
-* HPC.
-* Programación Científica.
-* Gestión de Aeronavegabilidad.
-* Investigación y Desarrollo (I+D).
+- optimización aerodinámica
+- análisis de datos de ingeniería
+- automatización de tareas técnicas
+- flujos de trabajo reproducibles para simulación científica
 
+---
+
+## Contacto
+
+- **Portfolio:** [juanjesus-munoz.github.io](https://juanjesus-munoz.github.io)
+- **LinkedIn:** [linkedin.com](https://linkedin.com/in/juanjesusmunozaguilera)
+- **GitHub:** [github.com](https://github.com/juanjesus-munoz)
+- **Correo:** [juanjesus.munoza03@gmail.com](mailto:juanjesus.munoza03@gmail.com)
