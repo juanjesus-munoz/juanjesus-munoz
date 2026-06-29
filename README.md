@@ -1,17 +1,6 @@
-<h1 align="center">¡Hola! 👋 Soy Juan Jesús Muñoz Aguilera</h1>
+# 👋 ¡Hola! Soy Juan Jesús Muñoz Aguilera
 
-<h3 align="center">
-Ingeniero Aeroespacial | Gestión de Aeronavegabilidad (CAMO) | CFD y Simulación Numérica
-</h3>
-
-<p align="center">
-  <a href="https://github.com/juanjesus-munoz">
-    <img src="https://img.shields.io/github/followers/juanjesus-munoz?style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/CFD-PyFR-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/EASA-CAMO-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-Scientific-yellow?style=for-the-badge">
-</p>
+### Ingeniero Aeroespacial | Gestión de Aeronavegabilidad (CAMO) | CFD y Simulación Numérica
 
 ---
 
@@ -33,11 +22,10 @@ Actualmente sigo ampliando mis conocimientos en **Computación de Altas Prestaci
 
 **Ingeniero de Aeronavegabilidad (Prácticas)**
 
-- Gestión de Aeronavegabilidad Continua (CAMO)
-- Seguimiento de Directivas de Aeronavegabilidad (AD)
-- Gestión de Boletines de Servicio (SB)
-- Soporte al mantenimiento de helicópteros y aeronaves ligeras
-- Cumplimiento normativo EASA
+* Gestión de Aeronavegabilidad Continua (CAMO).
+* Seguimiento de Directivas de Aeronavegabilidad (AD) y Boletines de Servicio (SB).
+* Soporte técnico al mantenimiento de helicópteros y aeronaves ligeras.
+* Cumplimiento de la normativa EASA.
 
 ---
 
@@ -49,10 +37,10 @@ Universidad de Cádiz
 
 Especialización en:
 
-- Aerodinámica
-- Diseño Aeronáutico
-- Dinámica de Fluidos Computacional (CFD)
-- Métodos Numéricos
+* Aerodinámica.
+* Diseño Aeronáutico.
+* Dinámica de Fluidos Computacional (CFD).
+* Métodos Numéricos.
 
 ---
 
@@ -60,24 +48,24 @@ Especialización en:
 
 ### 🎼 Simulación Aeroacústica mediante CFD con PyFR
 
-Trabajo Fin de Grado enfocado en el estudio aeroacústico de instrumentos tipo flauta mediante simulaciones CFD de alto orden.
+Trabajo Fin de Grado centrado en el estudio aeroacústico de instrumentos tipo flauta mediante simulaciones CFD de alto orden.
 
-### Tecnologías utilizadas
+**Tecnologías utilizadas**
 
-- PyFR
-- Pointwise
-- ParaView
-- MATLAB
-- Python
+* PyFR
+* Pointwise
+* ParaView
+* MATLAB
+* Python
 
-### Principales tareas
+**Principales tareas**
 
-- Diseño y optimización de geometrías
-- Generación de mallas estructuradas
-- Simulaciones DNS
-- Procesado FFT
-- Postprocesado científico
-- Análisis aeroacústico
+* Diseño y optimización de geometrías.
+* Generación de mallas estructuradas.
+* Simulaciones DNS.
+* Procesado FFT.
+* Postprocesado científico.
+* Análisis aeroacústico.
 
 🔗 **Repositorio**
 
@@ -85,78 +73,56 @@ https://github.com/juanjesus-munoz/TFG-Aeroacustica-PyFR
 
 ---
 
-# 🛠 Tecnologías
+## 🛠 Tecnologías
 
 ### ✈️ Ingeniería
 
-![CFD](https://img.shields.io/badge/CFD-blue?style=flat-square)
-![Aerodynamics](https://img.shields.io/badge/Aerodynamics-lightgrey?style=flat-square)
-![CAMO](https://img.shields.io/badge/CAMO-green?style=flat-square)
-![DNS](https://img.shields.io/badge/DNS-red?style=flat-square)
+* Gestión de Aeronavegabilidad (CAMO)
+* Aerodinámica
+* Dinámica de Fluidos Computacional (CFD)
+* Simulación Numérica (DNS)
 
 ### 💻 Programación
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square)
+* Python
+* MATLAB
+* NumPy
+* Matplotlib
 
 ### 🧩 Software
 
-- PyFR
-- Pointwise
-- ParaView
-- CATIA
-- VS Code
-- LaTeX
+* PyFR
+* Pointwise
+* ParaView
+* CATIA
+* Visual Studio Code
+* LaTeX
 
 ### 🖥️ Computación
 
-- Linux
-- Git
-- HPC
-- GPU Computing
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=juanjesus-munoz&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjesus-munoz&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=juanjesus-munoz&theme=tokyonight&hide_border=true"/>
-
-</p>
+* Linux
+* Git
+* HPC
+* GPU Computing
 
 ---
 
 ## 📫 Contacto
 
 🌐 **Portfolio**
-
 https://juanjesus-munoz.github.io
 
 💼 **LinkedIn**
-
 https://linkedin.com/in/juanjesusmunozaguilera
 
-🐙 **GitHub**
+📄 **Europass CV**
+https://europa.eu/europass/
 
+🐙 **GitHub**
 https://github.com/juanjesus-munoz
 
-✉️ **Correo**
-
-juanjesus.munoza03@gmail.com
+✉️ **Correo electrónico**
+[juanjesus.munoza03@gmail.com](mailto:juanjesus.munoza03@gmail.com)
 
 ---
 
@@ -164,17 +130,10 @@ juanjesus.munoza03@gmail.com
 
 Actualmente busco seguir creciendo profesionalmente en áreas relacionadas con:
 
-- Aerodinámica Computacional
-- CFD de Alto Orden
-- HPC
-- Programación Científica
-- Gestión de Aeronavegabilidad
-- Investigación y Desarrollo (I+D)
+* Aerodinámica Computacional.
+* CFD de Alto Orden.
+* HPC.
+* Programación Científica.
+* Gestión de Aeronavegabilidad.
+* Investigación y Desarrollo (I+D).
 
----
-
-<div align="center">
-
-### ✈️ *"La ingeniería consiste en transformar las ideas en soluciones reales mediante ciencia, precisión y creatividad."*
-
-</div>
