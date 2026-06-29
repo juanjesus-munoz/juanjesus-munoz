@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Juan Jesús Muñoz Aguilera
+# 👋 ¡Hola! Soy Juan Jesús Muñoz Aguilera
 
 Ingeniero Aeroespacial enfocado en **aeronavegabilidad**, **CFD** y **simulación numérica**.
 
