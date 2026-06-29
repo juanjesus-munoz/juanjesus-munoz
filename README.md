@@ -29,9 +29,7 @@ Me interesa especialmente el desarrollo de herramientas de simulación numérica
 
 ## 🎓 Formación
 
-**Grado en Ingeniería Aeroespacial**
-
-Universidad de Cádiz
+**Grado en Ingeniería Aeroespacial - Universidad de Cádiz**
 
 Especialización en:
 
