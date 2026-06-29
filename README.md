@@ -8,7 +8,7 @@ Trabajo en proyectos relacionados con **aerodinámica computacional**, **program
 
 ---
 
-## Sobre mí
+## 🚀 Sobre mí
 
 Soy un perfil técnico orientado a la intersección entre la **ingeniería aeronáutica** y la **computación científica**.  
 Mi trabajo se centra en áreas como la **Gestión de Aeronavegabilidad (CAMO/EASA)**, la **dinámica de fluidos computacional (CFD)** y el desarrollo de flujos de trabajo para simulación, postprocesado y análisis.
@@ -24,7 +24,7 @@ Actualmente me interesa seguir creciendo en proyectos de:
 
 ---
 
-## Stack técnico
+## 🛠 Stack técnico
 
 ### Ingeniería y simulación
 
