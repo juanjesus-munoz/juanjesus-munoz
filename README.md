@@ -46,16 +46,11 @@ Actualmente me interesa seguir creciendo en proyectos de:
 - LaTeX
 - Visual Studio Code
 
-### Entorno de trabajo
-
-- Git
-- Linux
-
 ---
 
 ## Proyecto destacado
 
-### Simulación aeroacústica de instrumentos tipo flauta mediante CFD con PyFR
+### Simulación aeroacústica de instrumentos musicales tipo flauta mediante CFD con PyFR
 
 Trabajo Fin de Grado centrado en el estudio aeroacústico de instrumentos musicales mediante **CFD de alto orden**, con énfasis en la generación de geometría, mallado, estabilidad numérica y análisis espectral.
 
