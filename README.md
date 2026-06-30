@@ -67,7 +67,7 @@ PyFR, Pointwise, ParaView, MATLAB, Python
 - Procesado espectral mediante FFT en MATLAB
 - Postprocesado y análisis aeroacústico de resultados
 
-🌐 **Ver proyecto completo:** [juanjesus-munoz.github.io/tfg.html](https://juanjesus-munoz.github.io/tfg.html)
+🌐 **Ver proyecto:** [juanjesus-munoz.github.io/tfg.html](https://juanjesus-munoz.github.io/tfg.html)
 
 🔗 **Repositorio:** <https://github.com/juanjesus-munoz/TFG-Aeroacustica-PyFR>
 
