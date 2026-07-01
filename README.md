@@ -77,6 +77,6 @@ PyFR, Pointwise, ParaView, MATLAB, Python
 
 - 🌐 **Portfolio:** [juanjesus-munoz.github.io](https://juanjesus-munoz.github.io)
 - 💼 **LinkedIn:** [linkedin.com/in/juanjesusmunozaguilera](https://linkedin.com/in/juanjesusmunozaguilera)
-- 📄 **Europass:** [Ver CV completo](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/juan+jes%C3%BAs-mu%C3%B1oz+aguilera/80d12651-3cf4-48cc-8cc0-44bee6e56e7e?view=html)
+- 📄 **Europass:** [Ver CV completo](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/juan+jes%C3%BAs-mu%C3%B1oz+aguilera/94e457a4-f957-48a0-8af8-6d1b18fa0a13?view=html)
 - 🐙 **GitHub:** [github.com/juanjesus-munoz](https://github.com/juanjesus-munoz)
 - ✉️ **Correo:** [juanjesus.munoza03@gmail.com](mailto:juanjesus.munoza03@gmail.com)
